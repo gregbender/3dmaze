@@ -1,0 +1,31 @@
+Greg Bender
+Project 4
+
+SOURCES: I generated the code for the chair using NuGraf's 3D
+         modeling software.  (http://www.okino.com).  Also the
+         function for reading in RAW texture files was found
+         online at http://www.nullterminator.net/gltexture.html
+
+NOTE:  This also seemed to take a very long time to compile, probably because
+       the chair.c file is so big.
+
+Project 4 Controls
+-----------------------
+UP ARROW    - Walk Forward
+DOWN ARROW  - Walk Backwards
+LEFT ARROW  - Look Left
+RIGHT ARROW - Look Right
+PAGE UP     - Tilt View Up
+PAGE DOWN   - Tilt View Down
+
+HOLD SHIFT KEY - Straife Left/Right
+
+HOLD LEFT MOUSE BUTTON - Rotate
+HOLD MIDDLE MOUSE BUTTON - Translate
+HOLD RIGHT MOUSE BUTTON - Scaling
+
+F - Toggle Fog
+L - Toggle Lights
+
+r - reset the cubes to original position
+-----------------------
